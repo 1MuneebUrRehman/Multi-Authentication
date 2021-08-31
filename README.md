@@ -10,7 +10,7 @@ In this Project, you will see Laravel Multi-Authentication (Admin and User) in a
 Clone the project
 
 ```bash
-  git clone git@github.com:1MuneebUrRehman/Multi-Authentication.git
+  git clone https://github.com/1MuneebUrRehman/Multi-Authentication.git
 ```
 
 Go to the project directory
