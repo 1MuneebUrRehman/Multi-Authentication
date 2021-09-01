@@ -1,7 +1,7 @@
 <h1 align="center">Multi Authentication</h1>
 
 
-In this Project, you will see Laravel Multi-Authentication (Admin and User) in a Simple way.
+In this Project, you will see Laravel Multi-Authentication (SuperAdmin, Admin and User) in a Simple way.
 
 
 
